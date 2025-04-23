@@ -1,14 +1,13 @@
-<img align="left" title="Phi" src="https://github.com/phi-x/art/blob/HEAD/phi-logo.svg?raw=true" alt="φ" height="200"/>
+[<img align="left" title="Phi" src="https://github.com/philang-org/art/blob/HEAD/phi-logo.svg?raw=true" alt="φ" height="180"/>](https://philang.org)
 
-### `Phi φ`
+### The `Phi φ` Programming Language
 
-**Phi** is a modern programming language that enhances PHP with strong typing,
-object-oriented improvements, and a Blade-inspired templating system.
+**Phi φ** is a modern superset of PHP with strong typing,  
+elegant OOP features, and a Blade-inspired templating engine.
 
-It’s PHP redefined — powerful, flexible, and backward-compatible.
+Write safer, more expressive code. Build better web apps and tools — faster.
 
-[Contribute](https://github.com/phi-x/phi/contribute) ·
-[Website](https://phi-x.github.io) ·
-[GitHub](https://github.com/phi-x/phi) ·
-[Documentation](https://phi-x.github.io/guides) ·
-[Releases](https://github.com/phi-x/phi/releases)
+[Documentation](https://philang.org/guides) ·
+[Releases](https://github.com/philang-org/phi/releases) ·
+[Contribute](https://github.com/philang-org/phi/contribute) ·
+[Follow](https://twitter.com/intent/follow?screen_name=philang_org)
