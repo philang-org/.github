@@ -2,10 +2,8 @@
 
 ### The `Phi φ` Programming Language
 
-**Phi φ** is a modern superset of PHP with strong typing,  
-elegant OOP features, and a Blade-inspired templating engine.
-
-Write safer, more expressive code. Build better web apps and tools — faster.
+Phi is a modern PHP superset with strong typing, elegant OOP,
+and Blade-inspired templating — build safer, better web apps, faster.
 
 [Documentation](https://philang.org/guides) ·
 [Releases](https://github.com/philang-org/phi/releases) ·
